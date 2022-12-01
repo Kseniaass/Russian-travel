@@ -1,0 +1,27 @@
+.place__url{
+    width: 456px;
+    height: 12px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    font-family: 'Inter';
+    color: gray;
+    text-align: left;
+}
+
+@media screen and (max-width:1279px) {
+    .place__url{
+        
+    }
+}
+@media  screen and (max-width:1023px){
+    .place__url{
+        
+    }
+    }
+@media  screen and (max-width:767px){
+    .place__url{
+        
+    }
+    }
