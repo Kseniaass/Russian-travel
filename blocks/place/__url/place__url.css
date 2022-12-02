@@ -1,12 +1,10 @@
 .place__url{
-    max-width: 456px;
-    max-height: 12px;
     font-weight: 400;
     font-size: 12px;
     line-height: 12px;
     letter-spacing: 2px;
-    font-family: 'Inter';
-    color: gray;
+    font-family: 'Inter', Arial, sans-serif;
+    color: #AAAAAA;
     text-align: left;
 }
 
