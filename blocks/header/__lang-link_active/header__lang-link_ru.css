@@ -1,7 +1,0 @@
-.header__lang-link_active{
-    text-decoration: underline;
-}
-
-.header__lang-link_active:last-child{
-    margin-right: 18px;
-}

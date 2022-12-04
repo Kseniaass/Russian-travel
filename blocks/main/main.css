@@ -1,15 +1,16 @@
-.main{
+.main {
     justify-items: center;
     max-width: 1280px;
 }
 
 @media screen and (max-width:1279px) {
-    .main{
+    .main {
         max-width: 1024px;
     }
 }
-@media  screen and (max-width:1023px){
-    .main{
+
+@media screen and (max-width:1023px) {
+    .main {
         max-width: 768px;
-      }
     }
+}
